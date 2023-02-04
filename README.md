@@ -1,8 +1,8 @@
 # DBMS-DROPS-language-learning-app
 
 Database project which is inspired from the DROPS app available on playstore <br>
-<b>Front end </b? - streamlit <br>
-<b>Back end DB </b> - MariaDB <br>
+**Front end** - streamlit <br>
+**Back end DB** - MariaDB <br>
 
 Steps to run the app and get your hands dirty with this project <br>
 1. clone the repo\n
