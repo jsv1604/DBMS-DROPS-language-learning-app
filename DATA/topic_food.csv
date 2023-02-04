@@ -1,0 +1,16 @@
+q_id,lang_id,food,english_meaning
+q01_f,lang01,pain,bread
+q02_f,lang01,Beurre,butter
+q03_f,lang01,Le Lait,milk
+q04_f,lang01,citron,lemon
+q05_f,lang01,Patate,potato
+q01_f,lang02,brot,bread
+q02_f,lang02,Butter,butter
+q03_f,lang02,Milch,milk
+q04_f,lang02,Zitrone,lemon
+q05_f,lang02,Kartoffel,potato
+q01_f,lang03,pan de molde,bread
+q02_f,lang03,manteca,butter
+q03_f,lang03,Leche,milk
+q04_f,lang03,limón,lemon
+q05_f,lang03,papa,potato

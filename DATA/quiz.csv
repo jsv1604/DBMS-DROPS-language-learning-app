@@ -1,0 +1,16 @@
+quiz_id,lang_id,question,answer
+q01_f,lang01,What is butter called in french?,pain
+q03_f,lang01,What is milk called in french?,Le Lait
+q02_t,lang01,"How do you say-""How are you?"" in French",Comment ça va
+q04_t,lang01,"How do you say-""I am fine"" in French",je vais bien
+q06_r,lang01,"What is ""son"" in french?",fils
+q03_f,lang02,"What is ""milk"" is German?",Milch
+q05_f,lang02,"What is ""potato"" in German?",Kartoffel
+q03_t,lang02,"How do you say ""Please help me"", in German?",Bitte hilf mir
+q05_t,lang02,How do you ask someone where the hospital is in German?,wo ist das Krankenhaus
+q01_r,lang02,What do you call your father in German?,Vater
+q04_f,lang03,What  do you call a lemon in Spanish?,limón
+q05_f,lang03,What do you call a potato in Spanish?,papa
+q03_t,lang03,How do you ask for help politely in Spanish?,"por favor, ayúdame"
+q01_t,lang03,How do you say Hello in Spanish?,Hola
+q03_r,lang03,"What is the Spanish word for ""Husband""?",esposo

@@ -1,0 +1,19 @@
+q_id,lang_id,relationship,english_meaning
+q01_r,lang01,père,father
+q02_r,lang01,mère,mother
+q03_r,lang01,mari,husband
+q04_r,lang01,épouse,wife
+q05_r,lang01,fils,son
+q06_r,lang01,la fille,daughter
+q01_r,lang02,Vater,father
+q02_r,lang02,Mutter,mother
+q03_r,lang02,Ehemann,husband
+q04_r,lang02,Ehefrau,wife
+q05_r,lang02,Sohn,son
+q06_r,lang02,Tochter,daughter
+q01_r,lang03,padre,father
+q02_r,lang03,madre,mother
+q03_r,lang03,esposo,husband
+q04_r,lang03,esposa,wife
+q05_r,lang03,hijo,son
+q06_r,lang03,hija,daughter

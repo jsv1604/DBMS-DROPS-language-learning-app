@@ -1,0 +1,16 @@
+q_id,lang_id,travel_talk,english_meaning
+q01_t,lang01,bonjour,hello
+q02_t,lang01,Comment ça va,how are you
+q03_t,lang01,"Aidez-moi, s'il vous plaît",please help me
+q04_t,lang01,je vais bien,I am fine
+q05_t,lang01,où est l'hôpital,where is the hospital
+q01_t,lang02,hallo,hello
+q02_t,lang02,wie gehts,how are you
+q03_t,lang02,Bitte hilf mir,please help me
+q04_t,lang02,Mir geht's gut,I am fine
+q05_t,lang02,wo ist das Krankenhaus,where is the hospital
+q01_t,lang03,Hola,hello
+q02_t,lang03,cómo estás,how are you
+q03_t,lang03,"por favor, ayúdame",please help me
+q04_t,lang03,Estoy bien,I am fine
+q05_t,lang03,Dónde está el hospital,where is the hospital
